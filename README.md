@@ -3,11 +3,9 @@
 ### Web Developer | Tech Enthusiast | AI Aspirant
 
 ## My Favorite Tools and Technologies
-| JavaScript | Python | React | Angular | Node.js | Express |
-|:----------:|:------:|:-----:|:-------:|:-------:|:-------:|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cutoffdragon&layout=compact&theme=radical)
+| JavaScript | TypeScript | Python | React | Angular | Node.js | Express |
+|:----------:|:----------:|:------:|:-----:|:-------:|:-------:|:-------:|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
 
 ## About Me
 Greetings, and thank you taking the time to view my portfolio! I am Jason LaGrasse, born on Long Island, New York, with a degree in political science and history from the University of South Carolina.
