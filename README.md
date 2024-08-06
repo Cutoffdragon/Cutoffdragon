@@ -2,9 +2,10 @@
 
 ### Web Developer | Tech Enthusiast | AI Aspirant
 
-![HTML](https://img.shields.io/badge/Code-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/Code-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Languages
+| Python | C | JavaScript | Solidity | Go |
+|:------:|:--:|:----------:|:--------:|:--:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cutoffdragon&layout=compact&theme=radical)
 
