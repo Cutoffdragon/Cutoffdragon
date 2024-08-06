@@ -25,9 +25,9 @@ Full stack application using React and PostgreSQL, which allows users to create 
 - ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) jasonlagrasse@gmail.com
 
 ## cutOffDragons quirks
-Code Jams: I enjoy listening to video game music while coding, specifically Minecraft tracks. It keeps the creative juices flowing and makes coding sessions more enjoyable! 🎵🎮
-Colorful Coding: My code editor is like a work of art— I use different colors for objects, arrays, variables, and more to keep my code both visually appealing and easy to navigate. 🌈💻
-Tech Enthusiast: I’m currently fascinated by Firebase's integration into Angular applications with AngularFire. Its features and seamless integration are making my projects even more exciting! 🚀💡
+- Code Jams: I enjoy listening to video game music while coding, specifically Minecraft tracks. It keeps the creative juices flowing and makes coding sessions more enjoyable! 🎵🎮
+- Colorful Coding: My code editor is like a work of art— I use different colors for objects, arrays, variables, and more to keep my code both visually appealing and easy to navigate. 🌈💻
+- Tech Enthusiast: I’m currently fascinated by Firebase's integration into Angular applications with AngularFire. Its features and seamless integration are making my projects even more exciting! 🚀💡
 
 ## Favorite Video Games
 1. World of Warcraft
