@@ -23,7 +23,3 @@ Full stack application using React and PostgreSQL, which allows users to create 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-lagrasse-a202a331a/)
 - [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cutoffdragon.com)
 - ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) jasonlagrasse@gmail.com
-
-## Fun Facts
-- 🍻 Certified beer server
-- 🎮 Gamer and coder by the name cutOffDragon
