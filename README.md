@@ -1,42 +1,37 @@
-# Hello, I'm Jason!
+# 👋 Welcome, Curious Traveler
 
-### Web Developer | Tech Enthusiast | AI Aspirant
+I'm **Jason LaGrasse** — an aspiring **Software Engineer**, lifelong **code alchemist**, and eternal student of logic, language, and the deeper patterns that govern this world (and the next).
 
-## My Favorite Tools and Technologies
-| JavaScript | TypeScript | Python | React | Angular | Node.js | Express |
-|:----------:|:----------:|:------:|:-----:|:-------:|:-------:|:-------:|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
+## 🧠 Who Am I?
 
-## About Me
-Greetings, and thank you taking the time to view my portfolio! I am Jason LaGrasse, born on Long Island, New York, with a degree in political science and history from the University of South Carolina.
+- 🎓 BA in Political Science & History
+- 🧪 Full-Stack Web Developer (React, Node.js, PostgreSQL)
+- ☕️ Java + Spring Boot explorer
+- 🧩 Addicted to solving problems with clean, efficient code
+- 🐉 Gamer, writer, and philosophical tinkerer
+- 🤖 Future AI whisperer and digital architect
 
-With a fervent passion for innovative technological solutions, I aim to become a renowned website developer, and eventually breach the skillset required to become a software engineer. My greatest aspiration is to contribute to the development of artificial intelligence and define the next generation of website development.
+I believe code is poetry written in logic—each application a spell, each algorithm a rite. I build things not just to solve problems, but to **understand the problem space** on a deeper level.
 
-## Projects
-### [BiblioTech](https://github.com/Cutoffdragon/BiblioTech)
-My first full-stack application, which allows users to search books and authors, as well as create an interactive reading list in a customizable environment.
+## 🚧 Current Quests
 
-### [QuizForge](https://github.com/Cutoffdragon/QuizForge)
-Full stack application using React and PostgreSQL, which allows users to create their own quiz, and test their luck in user quizzes!
+- 🌱 Mastering **Spring Boot** & advanced **Java**
+- 🔍 Refining my data structures & algorithm skills on LeetCode
+- ⚔️ Building **Whispers Archive**, a modular full-stack application of mythic proportions
+- 💼 Seeking opportunities to work with innovative teams pushing boundaries in tech & AI
 
-## Get in Touch
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-lagrasse-a202a331a/)
-- [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cutoffdragon.com)
-- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) jasonlagrasse@gmail.com
+## 🛠️ Tech Arsenal
 
-## cutOffDragons quirks
-- Code Jams: I enjoy listening to video game music while coding, specifically Minecraft tracks. It keeps the creative juices flowing and makes coding sessions more enjoyable! 🎵🎮
-- Colorful Coding: My code editor is like a work of art— I use different colors for objects, arrays, variables, and more to keep my code both visually appealing and easy to navigate. 🌈💻
-- Tech Enthusiast: I’m currently fascinated by Firebase's integration into Angular applications with AngularFire. Its features and seamless integration are making my projects even more exciting! 🚀💡
+```yaml
+Languages:     JavaScript | Java | HTML | CSS | SQL
+Frameworks:    React | Node.js | Spring Boot | Express | Javalin
+Tools:         Git | VS Code | Postman | IntelliJ | npm | Maven
+Databases:     PostgreSQL | MySQL
+Currently:     Diving deeper into backend architecture & deployment strategies
+```
 
-## Favorite Video Games
-1. World of Warcraft
-2. League of Legends
-3. Minecraft
-4. The Sims
-5. Team Fortress 2
-6. Pikmin
-7. The Elder Scrolls (both Skyrim and Oblivion)
-8. Dwarf Fortress
-9. Kerbel Space Program
-10. The Legend of Zelda
+## 📫 Connect With Me
+
+🧭 Portfolio: https://www.cutoffdragon.com
+
+💼 LinkedIn: https://www.linkedin.com/in/jason-lagrasse-a202a331a
