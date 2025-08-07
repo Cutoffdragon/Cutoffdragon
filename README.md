@@ -2,6 +2,8 @@
 
 I'm **Jason LaGrasse** — an aspiring **Software Engineer**, lifelong **code alchemist**, and eternal student of logic, language, and the deeper patterns that govern this world (and the next).
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cutoffdragon&layout=compact&theme=radical" alt="Top Langs" />
+
 ## 🧠 Who Am I?
 
 - 🎓 BA in Political Science & History
